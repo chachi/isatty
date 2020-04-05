@@ -31,7 +31,7 @@ please check [dtolnay/isatty#1] and contribute an implementation!
 
 > ```toml
 > [dependencies]
-> isatty = "0.1"
+> isatty = "0.2"
 > ```
 
 `src/main.rs`
